@@ -1,6 +1,6 @@
 # Haverford Libraries Digital Scholarship Cryptoparty
 
-This is a repository of handouts from the first Haverford Libraries Cryptoparty, an informal event to share information on digital privacy and combating online surveillance.
+This is a repository of handouts from the first Haverford Libraries Cryptoparty, an informal event held on December 11, 2019 to share information on digital privacy and combating online surveillance.
 
 The handouts are based on those created by the Digital Library Federation's Technologies of Surveillance Working Group for a similar event at the 2019 Digital Library Federation Forum. Their handouts are available in an [OSF repository](https://osf.io/urmy9/).
 
